@@ -21,7 +21,7 @@ if __name__ == '__main__':
     #Initialisation des valeurs par défaut
     nbr_mesure_par_echantillon = 100 
     nbr_mesure_par_etalon = 200
-    interface_acceuil="""
+    interface_accueil="""
     ===========================================================================
     ACCUEIL
     ===========================================================================

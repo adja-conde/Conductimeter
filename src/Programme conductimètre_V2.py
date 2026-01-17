@@ -23,7 +23,7 @@ if __name__ == '__main__':
     nbr_mesure_par_etalon = 200
     interface_acceuil="""
     ===========================================================================
-    ACCEUIL
+    ACCUEIL
     ===========================================================================
     Que voulez-vous faire ? :
     1 - Etalonner le conductimètre 
